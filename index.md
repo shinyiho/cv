@@ -13,9 +13,13 @@
 - Worked with [Huawei](https://www.huawei.com/en/) and [AUO](https://www.auo.com/en-global).
 - Technical support in the development of display driver IC for mobile and tablet.
 
-`2013.7 - 2013.8` **Process Integration Engineer** [_United Microelectronics Corporation_](https://www.umc.com/en/home/Index)
+`2016.7 – 2016.8` **Research Assistant** [_NTU SSLD_](http://gipo.ntu.edu.tw/eng/e_p6student-5-detail2.php?sn=30&is_manage=1&title_code=02)
 
-- Optimized semiconductor devices fabrication process, increasing yield, decreasing die costs.
+- Published academic paper to IEEE Transactions on Electron Devices.
+
+`2013.7 - 2013.8` **Process Integration Intern** [_United Microelectronics Corporation_](https://www.umc.com/en/home/Index)
+
+- Optimized semiconductor devices fabrication process, increasing yield and decreasing die costs.
 
 ## Publications
 
@@ -26,7 +30,7 @@
 
 ## Education
 
-`2019.9 - 2021.6(expected)` **National Taiwan University**
+`2014.7 - 2016.6` **National Taiwan University**
 
 - _Master of Science_, "Electrical and Electronics Engineering"
 
