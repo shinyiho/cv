@@ -40,4 +40,4 @@
 
 ## Bio
 
-Shin was a former IC design engineer, now a self taught software engineer.
+I was a former IC design engineer, now a self-taught software engineer. I love using technology to make things happen, and feel most fulfilled when using my skills to do so.
