@@ -13,7 +13,7 @@
 - Worked with [Huawei](https://www.huawei.com/en/) and [AUO](https://www.auo.com/en-global).
 - Technical support in the development of display driver IC for tablet and mobile, including design specification, setting up the simulation and debugging environment by programming FPGA in C.
 
-`2016.7 – 2016.8` **Research Assistant** [_NTU SSLD_](http://gipo.ntu.edu.tw/eng/e_p6student-5-detail2.php?sn=30&is_manage=1&title_code=02)
+`2016.7 – 2017.1` **Research Assistant** [_NTU SSLD_](http://gipo.ntu.edu.tw/eng/e_p6student-5-detail2.php?sn=30&is_manage=1&title_code=02)
 
 - Published academic paper to IEEE Transactions on Electron Devices.
 
