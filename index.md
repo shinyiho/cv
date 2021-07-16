@@ -24,9 +24,9 @@
 ## Publications
 
 - “Suppression of Current Collapse in Enhancement Mode GaN-Based HEMTs Using an AlGaN/GaN/AlGaN Double Heterostructure" [_IEEE_](https://ieeexplore.ieee.org/abstract/document/7873300)
-- "Fabrication and Current Collapse Characterizations of Enhancement-Mode AlGaN/GaN High Electron Mobility Transistors" [_Airitilibrary_](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201611231600)
 - "Current collapse suppression by SiO2 passivation in p-GaN/AlGaN/GaN enhancement-mode high electron mobility transistors" [_IEEE_](https://ieeexplore.ieee.org/abstract/document/7528613)
 - "Suppression of Current Collapse in Enhancement-Mode AlGaN/GaN High Electron Mobility Transistors" [_IEEE_](https://ieeexplore.ieee.org/abstract/document/7321782)
+- "Fabrication and Current Collapse Characterizations of Enhancement-Mode AlGaN/GaN High Electron Mobility Transistors" [_Airitilibrary_](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2907201611231600)
 
 ## Education
 
