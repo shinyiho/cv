@@ -6,7 +6,7 @@
 
 `2019.12 – now` **Freelance Web Developer**
 
-- Data analystic and web development.
+- Data analytic and web development.
 - React, Node, Express, Firebase, PostgreSQL, Heroku, Teachable machine, TypeScript.
 
 `2017.2 – 2019.11` **System Engineer** [_Himax Technologies_](https://www.himax.com.tw/)
