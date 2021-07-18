@@ -1,6 +1,6 @@
 # Shinyi Ho
 
-[website](https://shinyiho.github.io/#/) | [github](https://github.com/shinyiho) | [linkedin](https://www.linkedin.com/in/shinyi-ho-13871b73/)
+[website](https://shinyiho.github.io/) | [github](https://github.com/shinyiho) | [linkedin](https://www.linkedin.com/in/shinyi-ho-13871b73/)
 
 ## Experience
 
