@@ -6,7 +6,7 @@
 
 `2019.12 – now` **Freelance Web Developer**
 
-- Working with a team on changing recycling culture in NY, we want to help users do recycling in the right way with the help of technology.
+- Working with a team on changing the recycling culture in NY, we want to help users do recycling in the right way with the help of technology.
 - Data analytic and web development using React, JavaScript/TypeScript, Node, Express, Firebase, PostgreSQL, Heroku, and ML applications.
 
 `2017.2 – 2019.11` **System Engineer** [_Himax Technologies_](https://www.himax.com.tw/)
