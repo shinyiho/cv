@@ -11,7 +11,7 @@ Versatile Engineer in both front-end software engineering and firmware developme
 `2022.01 – now` **Software Engineer** [_Vibrant America_](https://www.vibrant-america.com/)
 
 - Projects:
-    - Company’s Official Website:
+    - Company’s Official Website: 172.5k monthly visits 
         - Patient Page: For doctors to manage patient lists and orders.
         - FedEx Page: Simplifies sample pickup bookings.
         - Education Center: Medical knowledge resource platform.
@@ -20,7 +20,7 @@ Versatile Engineer in both front-end software engineering and firmware developme
         - Inventory Page: Handles inventory and deliveries.
         - Sample Page: Tracks and manages orders.
 - Demonstrated quick demos when the feature was unclear, making it easier for the designer to create the design.
-- Implemented designs cleanly and quickly.
+- Implemented designs cleanly and quickly using Vue.
 - Established infrastructure, deploying production and staging environments, setting up Jenkins for CI/CD, and configuring Nginx, resulting in a streamlined development process.
 - Proactively responded to feedback, independently resolving bugs, and ensuring high responsiveness in feature development and bug fixes, preventing process delays.
 - Optimized the frontend webpack bundle size.
